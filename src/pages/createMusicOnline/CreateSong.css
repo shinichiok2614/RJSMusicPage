@@ -1,0 +1,30 @@
+.videoContainer2{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    
+  }
+  
+  .heroContainer{
+    height: 150%;
+    width: 150%;
+    position: absolute;
+    top: -25%;
+    left: -40%;
+    overflow: hidden;
+    z-index: -100;
+  }
+  .titleCreateMusic{
+    position: absolute;
+    /* width: 0%; */
+    top: 10%;
+    right: 37%;
+    font-size: 70px;
+    color: lightsalmon;
+  }
+  .form-container{
+    position: absolute;
+    width: 50%;
+    top: 30%;
+    right: 30%;
+  }

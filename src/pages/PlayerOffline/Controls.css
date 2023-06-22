@@ -1,0 +1,9 @@
+.controls-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.input-range{
+    width: 1000px;
+}
